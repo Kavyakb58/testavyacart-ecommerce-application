@@ -126,9 +126,27 @@ This application is used for:
 
 ---
 
-## 👩‍💻 Author
+## 🌐 Connect With Me
 
-Kavya K B
+### LinkedIn
+
+[LinkedIn](https://www.linkedin.com/in/kavyakb)
+
+
+### GitHub
+
+[GitHub](https://github.com/Kavyakb58)
+
+### Medium
+
+[Medium](https://medium.com/@testavya.work)
+
+
+### Email
+
+[testavya.work@gmail.com](mailto:testavya.work@gmail.com)
+
+---
 
 🚀 Building Testavya
 
