@@ -147,6 +147,9 @@ This application is used for:
 [testavya.work@gmail.com](mailto:testavya.work@gmail.com)
 
 ---
+## 👩‍💻 Author
+
+Kavya K B
 
 🚀 Building Testavya
 
